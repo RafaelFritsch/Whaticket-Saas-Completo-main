@@ -92,10 +92,10 @@ BROWSER_VERSION=10.0
 VIEW_QRCODE_TERMINAL=true
 
 # EMAIL
-MAIL_HOST=""
-MAIL_USER=""
-MAIL_PASS=""
-MAIL_FROM=""
+MAIL_HOST="smtp.gmail.com"
+MAIL_USER="crmvirtua@gmail.com"
+MAIL_PASS="loodeegsotilhbmd"
+MAIL_FROM="crmvirtua"
 MAIL_PORT=587
 
 GERENCIANET_SANDBOX=false
